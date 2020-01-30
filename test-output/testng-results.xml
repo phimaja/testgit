@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13382" started-at="2020-01-26T12:55:27Z" finished-at="2020-01-26T12:55:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13382" started-at="2020-01-26T12:55:27Z" finished-at="2020-01-26T12:55:41Z">
+      <class name="com.TestScript.BaseClass1">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:com.TestScript.BaseClass1@657c8ad9]" name="OpenBrowser" is-config="true" duration-ms="7777" started-at="2020-01-26T12:55:28Z" finished-at="2020-01-26T12:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.TestScript.BaseClass1@657c8ad9]" name="closeBrowser" is-config="true" duration-ms="318" started-at="2020-01-26T12:55:41Z" finished-at="2020-01-26T12:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.TestScript.BaseClass1 -->
+      <class name="com.TestScript.createCustomer">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.TestScript.createCustomer@436a4e4b]" name="login" is-config="true" duration-ms="302" started-at="2020-01-26T12:55:35Z" finished-at="2020-01-26T12:55:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="testcreateCustomer()[pri:0, instance:com.TestScript.createCustomer@436a4e4b]" name="testcreateCustomer" duration-ms="3877" started-at="2020-01-26T12:55:36Z" finished-at="2020-01-26T12:55:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcreateCustomer -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:com.TestScript.createCustomer@436a4e4b]" name="logOut" is-config="true" duration-ms="850" started-at="2020-01-26T12:55:40Z" finished-at="2020-01-26T12:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+      </class> <!-- com.TestScript.createCustomer -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,4 @@
+# Created at 2020-01-26T18:22:36.573
+Boot Manifest-JAR contains absolute paths in classpath 'E:\eclipse new version\ActiTime\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
